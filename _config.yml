@@ -1,0 +1,11 @@
+title: "Roy Kim"
+theme: minima
+
+# Navigation links
+header_pages:
+  - index.md
+  - interests.md
+  - research.md
+  - projects.md
+  - cv.md
+  - contact.md
