@@ -1,5 +1,5 @@
 ---
-title: ""
+title: Home
 ---
 
 <img src="assets/IMG_7118.jpeg" alt="Roy Kim" width="200" style="display:block; margin:auto;" />  
