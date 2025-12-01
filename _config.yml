@@ -1,6 +1,6 @@
 theme: minima
 
-header_pages:
-  - index.md
-  - researchinterests.md
-  - teaching.md
+nav:
+  - Home: index.md
+  - Research Interests: researchinterests.md
+  - Teaching: teaching.md
