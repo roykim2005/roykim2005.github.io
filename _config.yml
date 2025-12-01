@@ -1,6 +1,5 @@
 theme: minima
 
-# Navigation links
 header_pages:
   - index.md
   - researchinterests.md
