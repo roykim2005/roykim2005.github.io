@@ -1,6 +1,7 @@
 ---
-title: Research Interests
+title: ""
 ---
+
 **Research Interests**  
 I'm a mathematical physicist interested in high-energy density physics, especially in laser-plasma interaction. I originally started my research in high-energy theory, studying the AdS/CFT correspondence. 
 My current project focuses on a little bit of QFT and a little bit of finite-temperature field theory, and a whole lot of mathematical physics.
