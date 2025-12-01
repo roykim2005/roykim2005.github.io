@@ -3,7 +3,7 @@ title: Home
 ---
 
 <img src="assets/IMG_7118.jpeg" alt="Roy Kim" width="200" style="display:block; margin:auto;" />  
-## **Roy Kim**  
+### **Roy Kim**  
 Physics & Aerospace Engineering @ University of Texas at Austin   
 Email: roy dot kim at utexas dot edu  
 [LinkedIn](https://www.linkedin.com/in/kimmy2005/)
