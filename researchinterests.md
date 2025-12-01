@@ -5,8 +5,6 @@ title: Research Interests
 I'm a mathematical physicist interested in high-energy density physics, especially in laser-plasma interaction. I originally started my research in high-energy theory, studying the AdS/CFT correspondence. 
 My current project focuses on a little bit of QFT and a little bit of finite-temperature field theory, and a whole lot of mathematical physics.
 
-<embed src="assets/Kim_Roy_research_essay.pdf" width="100%" height="800px" />
-
 # **Current Research**
 ### Operator-Theoretic Regularization of Divergent Logarithmic Series
 Studying the spectral decomposition of discrete imaginary modes and exploring applications in AdS/CFT correspondence and finite-temperature quantum field theory in Euclidean formalism.
