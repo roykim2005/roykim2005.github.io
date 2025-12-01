@@ -1,6 +1,7 @@
 ---
-title: Teaching
+title: ""
 ---
+
 **Teaching**  
 I'm an undergraduate TA (learning assistant) for PHY 302L: General Physics Technical Course: Electricity and Magnetism, Light, Atomic and Nuclear Physics (Fall 2025).
 
