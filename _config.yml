@@ -1,7 +1,7 @@
-title: "Roy Kim"
 theme: minima
 
 # Navigation links
 header_pages:
   - index.md
   - researchinterests.md
+  - teaching.md
