@@ -3,7 +3,7 @@ title: Home
 ---
 
 # **Roy Kim**
-Physics @ UT Austin  
+Physics & Aerospace Engineering @ University of Texas at Austin   
 Email: roy.kim@utexas.edu  
 [LinkedIn](https://www.linkedin.com/in/kimmy2005/)
 
