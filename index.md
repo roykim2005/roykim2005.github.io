@@ -2,7 +2,7 @@
 title: Home
 ---
 
-<img src="assets/IMG_7118.jpeg" alt="Roy Kim" width="200" style="display:block; margin:auto;" />  
+<img src="assets/IMG_7118.jpeg" alt="Roy Kim" width="300" style="display:block; margin:auto;" />  
 ### **Roy Kim**  
 Physics & Aerospace Engineering @ University of Texas at Austin   
 Email: roy dot kim at utexas dot edu  
@@ -18,4 +18,4 @@ In my free time, I play guitar, train MMA, lift weights, and solve Rubik's cubes
 
 I'm a follower of Jesus Christ. If you’re interested, you can read testimonies from university faculty members [here](https://meettheprof.com/).
 
-<img src="assets/catmeme.png" alt="Roy Kim" width="300" style="display:block; margin:auto;" />  
+<img src="assets/catmeme.png" alt="Roy Kim" width="400" style="display:block; margin:auto;" />  
