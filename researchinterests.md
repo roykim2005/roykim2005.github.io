@@ -3,7 +3,7 @@ title: Research Interests
 ---
 
 **Research Interests**  
-I'm a mathematical physicist interested in high-energy density physics, especially in laser-plasma interaction. I originally started my research in high-energy theory, studying the AdS/CFT correspondence. My current project focuses on a little bit of finite-temperature field theory and a little bit of AdS/CFT, and a whole lot of mathematical physics.
+I'm a mathematical physicist interested in AMO physics and high-energy density physics, especially in laser-plasma interaction. I originally started my research in high-energy theory, studying the AdS/CFT correspondence. My current project focuses on a little bit of finite-temperature field theory and a little bit of AdS/CFT, and a whole lot of mathematical physics.
 
 **Current Research**   
 ### Operator-Theoretic Regularization of Divergent Logarithmic Series
