@@ -5,7 +5,7 @@ title: Home
 <img src="assets/IMG_7118.jpeg" alt="Roy Kim" width="300" style="display:block; margin:auto;" />  
 ### **Roy Kim**  
 Physics & Aerospace Engineering @ University of Texas at Austin   
-Email: roy dot kim at utexas dot edu  
+Email: roy (dot) kim (at) utexas (dot) edu  
 [LinkedIn](https://www.linkedin.com/in/kimmy2005/)
 
 Welcome! I am an undergraduate Physics and Aerospace Engineering major at UT Austin.
