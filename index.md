@@ -12,7 +12,7 @@ Welcome! I am an undergraduate Physics and Aerospace Engineering major at UT Aus
 
 My goal is to pursue a PhD in Physics, contributing to the intersection of theory and experiments. I have a huge interest in applications of physics in engineering and other interdisciplinary fields. I am also involved in small-scale space systems research, particularly a 3U CubeSat project focusing on physics-oriented applications.
 
-In my free time, I play guitar, train MMA, lift weights, and solve Rubik's cubes.
+In my free time, I play guitar, train MMA, lift weights, and solve Rubik's cubes (my favorite finite non-abelian group).
 
 I'm a follower of Jesus Christ. If you’re interested, you can read testimonies from university faculty members [here](https://meettheprof.com/).
 
