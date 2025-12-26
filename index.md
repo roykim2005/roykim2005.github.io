@@ -10,7 +10,7 @@ Email: roy (dot) kim (at) utexas (dot) edu
 
 Welcome! I am an undergraduate Physics major at UT Austin.
 
-My goal is to pursue a PhD in Physics, contributing to the intersection of theory and experiments. I have a huge interest in applications of physics in engineering and other interdisciplinary fields. I am also involved in small-scale space systems research, particularly a 3U CubeSat project focusing on physics-oriented applications.
+My goal is to pursue a PhD in Physics, contributing to the application of physics in interdisciplinary fields. I am also involved in small-scale space systems research, particularly a 3U CubeSat project focusing on physics-oriented applications.
 
 In my free time, I play guitar, train MMA, lift weights, and solve Rubik's cubes (my favorite finite non-abelian structures).
 
