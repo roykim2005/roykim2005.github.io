@@ -7,7 +7,7 @@ I'm a mathematical physicist with an interest in AMO physics. I originally start
 
 **Current Research**   
 ### Operator-Theoretic Regularization of Divergent Logarithmic Series
-A study of the spectral decomposition of discrete imaginary modes and exploring applications in finite-temperature quantum field theory in Euclidean formalism.  
+A study of the spectral decomposition of discrete imaginary modes and exploring applications in finite-temperature field theory in Euclidean formalism.  
 Check out my research essay [here](assets/Kim_Roy_research_essay.pdf)!
 
 ### New Intense Cold Atom Source @ [Ultracold Atomic Physics Group](https://web2.ph.utexas.edu/~coldatom/)
