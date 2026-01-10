@@ -3,7 +3,7 @@ title: Research Interests
 ---
 
 **Research Interests**  
-I am interested in experimental and theoretical AMO physics. I originally started my research in high-energy theory, studying the AdS/CFT correspondence. Now I have two projects, one in mathematical physics focusing on analytic approaches to finite-temperature field theory, and one in experimental physics building an ultrastable cavity for our high-flux cold atom beam.
+I am interested in experimental and theoretical AMO physics. I originally started my research in high-energy theory, studying the AdS/CFT correspondence. Now I have two projects, one in mathematical physics focused on analytic approaches to finite-temperature field theory, and one in experimental physics building an ultrastable cavity for our high-flux cold atom beam.
 
 **Current Research**   
 ### Operator-Theoretic Regularization of Divergent Logarithmic Series
@@ -19,4 +19,4 @@ I'm currently working on implementing Pound–Drever–Hall (PDH) locking of a l
 
 **Side Project**   
 ### Project Romulus
-Multipurpose 3U cube satellite at project focused on developing feasible applications for AMO physics in low Earth orbit. 
+Multipurpose 3U cube satellite focused on developing feasible applications of AMO physics. 
