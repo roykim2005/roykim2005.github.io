@@ -3,7 +3,7 @@ title: Research Interests
 ---
 
 **Research Interests**  
-I'm a mathematical physicist with an interest in AMO physics. I originally started my research in high-energy theory, studying the AdS/CFT correspondence. Now I have two projects, one in mathematical physics focusing on analytic approaches to finite-temperature field theory, and one in experimental physics building an ultrastable cavity for our high-flux cold atom beam.
+I am interested in experimental and theoretical AMO physics. I originally started my research in high-energy theory, studying the AdS/CFT correspondence. Now I have two projects, one in mathematical physics focusing on analytic approaches to finite-temperature field theory, and one in experimental physics building an ultrastable cavity for our high-flux cold atom beam.
 
 **Current Research**   
 ### Operator-Theoretic Regularization of Divergent Logarithmic Series
