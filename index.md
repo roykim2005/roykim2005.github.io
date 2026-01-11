@@ -12,7 +12,7 @@ Welcome! I am an undergraduate Physics major at UT Austin.
 
 My goal is to pursue a PhD in Physics, contributing to the application of physics in interdisciplinary fields. I am also involved in small-scale space systems research, particularly a 3U CubeSat project focusing on physics-oriented applications.
 
-In my free time, I play guitar, train MMA, lift weights, and solve Rubik's cubes (my favorite finite non-abelian structures).
+In my free time, I like to play guitar, train MMA, lift weights, make coffee, and solve Rubik's cubes (my favorite finite non-abelian structures).
 
 I'm a follower of Jesus Christ. If you’re interested, you can read testimonies from university faculty members [here](https://meettheprof.com/).
 
