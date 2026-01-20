@@ -1,5 +1,5 @@
 ---
-title: Research Interests & Publication
+title: Research Interests & Publications
 ---
 
 ### Research Interests  
