@@ -6,7 +6,7 @@ title: Research Interests & Publications
 I am interested in experimental and theoretical AMO physics. I originally started my research in high-energy theory, studying the AdS/CFT correspondence. Now I have two projects, one in mathematical physics focused on analytic approaches to finite-temperature field theory, and one in experimental physics building an ultrastable cavity for our high-flux cold atom beam.
 
 ### Current Research   
-** Operator-Theoretic Regularization of Divergent Logarithmic Series **  
+**Operator-Theoretic Regularization of Divergent Logarithmic Series**  
 A study of the spectral decomposition of discrete imaginary modes and their applications in finite-temperature field theory in Euclidean formalism.  
 Check out my research essay [here](assets/Kim_Roy_research_essay.pdf)!
 
@@ -18,10 +18,10 @@ I'm currently working on implementing Pound–Drever–Hall (PDH) locking of a l
 
 ### Side Project   
 
-** Project Romulus **  
+**Project Romulus**  
 Multipurpose 3U cube satellite focused on developing feasible applications of AMO physics. 
 
 ### Publications  
-** A Dynamical Analysis of Espresso Flow **  
+**A Dynamical Analysis of Espresso Flow**  
 A theoretical study of non-Newtonian porous media flow and thermal coupling in espresso extraction through anisotropic coffee pucks to help you produce a good cup of coffee every morning.  
 [Zenodo preprint](https://doi.org/10.5281/zenodo.18287355)
