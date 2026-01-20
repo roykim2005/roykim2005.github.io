@@ -19,7 +19,7 @@ I'm currently working on implementing Pound–Drever–Hall (PDH) locking of a l
 **Side Project**   
 ### A Dynamical Analysis of Espresso Flow
 A theoretical study of non-Newtonian porous media flow and thermal coupling in espresso extraction through anisotropic coffee pucks to help you produce a good cup of coffee every morning.
-Check out this cool preprint [on Zenodo](https://zenodo.org/records/18287356?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImIwN2Q5NDAyLTI0ZGItNDI3YS05NWQ4LTczNjIwYmRjYmQ1YSIsImRhdGEiOnt9LCJyYW5kb20iOiJlMzc1N2QxN2JkYzU1ZWRmMTQyN2E4NmFlODk0MTI0YiJ9.9Xmm2PRzvCyUdSJMjxi5epMr-qGQrufxsazhzjdh76a2c6qLLqoNCrARs37sJq-O4uYPBfENiY1D0ooU3VEgEw)!
+Check out this cool preprint [on Zenodo](https://doi.org/10.5281/zenodo.18316148)!
 
 ### Project Romulus
 Multipurpose 3U cube satellite focused on developing feasible applications of AMO physics. 
