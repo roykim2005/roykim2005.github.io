@@ -23,5 +23,6 @@ Multipurpose 3U cube satellite focused on developing feasible applications of AM
 
 ### Publications  
 **A Dynamical Analysis of Espresso Flow**  
-A theoretical study of non-Newtonian porous media flow and thermal coupling in espresso extraction through anisotropic coffee pucks to help you produce a good cup of coffee every morning.  
+A theoretical study of non-Newtonian porous media flow and thermal coupling in espresso extraction through anisotropic coffee pucks to help you produce a nice cup of coffee every morning.  
+DOI: 10.5281/zenodo.18287355  
 [Zenodo preprint](https://doi.org/10.5281/zenodo.18287355)
