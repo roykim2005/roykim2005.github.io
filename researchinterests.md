@@ -3,17 +3,22 @@ title: Research Interests & Publications
 ---
 
 ### Research Interests  
-I am interested in experimental and theoretical AMO physics. I originally started my research in high-energy theory, studying the AdS/CFT correspondence. Now I have two projects, one in mathematical physics focused on analytic approaches to finite-temperature field theory, and one in experimental physics building an ultrastable cavity for our high-flux cold atom beam.
+I am interested in experimental and theoretical AMO physics. I originally started my research in high-energy theory, studying the AdS/CFT correspondence. Now I have three projects, one in mathematical physics focused on analytic approaches to finite-temperature field theory, and two in experimental/applied physics building an ultrastable cavity for our high-flux cold atom beam.
 
 ### Current Research   
-**Operator-Theoretic Regularization of Divergent Logarithmic Series**  
-A study of the spectral decomposition of discrete imaginary modes and their applications in finite-temperature field theory in Euclidean formalism.  
-Check out my research essay [here](assets/Kim_Roy_research_essay.pdf)!
+
+**A Stable Mode-Hop Free Spectral Range Feedback and Feed-Forward Loop for External Cavity Lasers**  
+
 
 **New Intense Cold Atom Source @ [Ultracold Atomic Physics Group](https://web2.ph.utexas.edu/~coldatom/)**  
 [See project description here](https://web2.ph.utexas.edu/~coldatom/CAS.html).
 
 I'm currently working on implementing Pound–Drever–Hall (PDH) locking of a laser to an optical reference cavity and designing a stable optical cavity providing MHz-level linewidth and sub-MHz/day drift, sufficient for stable laser cooling and diagnostics. 
+
+**Operator-Theoretic Regularization of Divergent Logarithmic Series**  
+
+A study of the spectral decomposition of discrete imaginary modes and their applications in finite-temperature field theory in Euclidean formalism.  
+Check out my research essay [here](assets/Kim_Roy_research_essay.pdf)!
 
 
 ### Side Project   
