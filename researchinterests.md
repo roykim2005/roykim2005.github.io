@@ -32,6 +32,6 @@ A theoretical study of non-Newtonian porous media flow and thermal coupling in e
 DOI: 10.5281/zenodo.18287355  
 [Zenodo preprint](https://doi.org/10.5281/zenodo.18287355)
 
-**The Capital of Texas Undergraduate Research Conference (CTURC) 2026**
+**The Capital of Texas Undergraduate Research Conference (CTURC) 2026**  
 Poster presentation - A Dynamical Analysis of Espresso Flow, Mar 28, 2026.
 [Poster](assets/Kim_Roy_CTURC_poster_final_1.pdf)
