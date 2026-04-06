@@ -7,7 +7,7 @@ I am interested in experimental and theoretical AMO physics. I originally starte
 
 ### Current Research   
 
-**A Stable Mode-Hop Free Spectral Range Feedback and Feed-Forward Loop for External Cavity Lasers**  
+**Stable Mode-Hop-Free Feedback-and-Feedforward Loop to Extend the Tuning Range of External Cavity Diode Lasers**  
 
 
 **New Intense Cold Atom Source @ [Ultracold Atomic Physics Group](https://web2.ph.utexas.edu/~coldatom/)**  
@@ -26,8 +26,12 @@ Check out my research essay [here](assets/Kim_Roy_research_essay.pdf)!
 **Project Romulus**  
 Multipurpose 3U cube satellite focused on developing feasible applications of AMO physics. 
 
-### Publications  
+### Talks & Papers  
 **A Dynamical Analysis of Espresso Flow**  
 A theoretical study of non-Newtonian porous media flow and thermal coupling in espresso extraction through anisotropic coffee pucks to help you produce a nice cup of coffee every morning.  
 DOI: 10.5281/zenodo.18287355  
 [Zenodo preprint](https://doi.org/10.5281/zenodo.18287355)
+
+**The Capital of Texas Undergraduate Research Conference (CTURC) 2026**
+Poster presentation - A Dynamical Analysis of Espresso Flow, Mar 28, 2026.
+[Poster](assets/Kim_Roy_CTURC_poster_final_1.pdf)
