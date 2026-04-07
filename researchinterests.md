@@ -3,7 +3,7 @@ title: Research
 ---
 
 ### Research Interests  
-I am interested in experimental and theoretical AMO physics. I originally started my research in high-energy theory, studying the AdS/CFT correspondence. Now I have three projects, one in mathematical physics focused on analytic approaches to finite-temperature field theory, and two in experimental/applied physics building an ultrastable cavity for our high-flux cold atom beam.
+I am interested in Plasma and AMO physics. I originally started my research in high-energy theory, studying the AdS/CFT correspondence. Now I have three projects, one in mathematical physics focused on analytic approaches to finite-temperature field theory, and two in experimental/applied physics building an ultrastable cavity for our high-flux cold atom beam.
 
 ### Current Research   
 
