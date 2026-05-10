@@ -38,4 +38,8 @@ Poster presentation - A Dynamical Analysis of Espresso Flow, Mar 28, 2026.
 
 **Intense Continuous Cold-Atom Source - PHY 395T**  
 In-class lecture/presentation on 'Intense continuous cold-atom source' (Phys. Rev. A 107, 013302).  
-Given to graduate students, research scientists, etc. on Apr 10, 2026.  
+Given to graduate students, research scientists, and post-docs on Apr 10, 2026.  
+
+**Technology & Science Undergraduate Research Forum (URF) 2026**  
+Poster presentation - Stable Mode-Hop-Free Feedback-and-Feedforward Loop to Extend the Tuning Range of External-Cavity Diode Lasers, Apr 17, 2026.  
+[Poster](assets/Kim_Shankar_Heinzen_URF.pdf)  
