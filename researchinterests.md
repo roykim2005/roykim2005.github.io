@@ -9,7 +9,7 @@ I am interested in plasma physics and fusion science. I originally started my re
 
 **Stable Mode-Hop-Free Feedback-and-Feedforward Loop to Extend the Tuning Range of External Cavity Diode Lasers**  
 
-A quasi-global parameter-varying control model for mode-hop-free tuning in external-cavity diode lasers incorporating geometric tools to study nonlinear control and stability.  
+A quasi-global parameter-varying control model for mode-hop-free tuning in external-cavity diode lasers using geometric tools to study nonlinear control and stability.  
 
 **New Intense Cold Atom Source @ [Ultracold Atomic Physics Group](https://web2.ph.utexas.edu/~coldatom/)**  
 [See project description here](https://web2.ph.utexas.edu/~coldatom/CAS.html).
