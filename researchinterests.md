@@ -3,9 +3,13 @@ title: Research
 ---
 
 ### Research Interests  
-I am interested in plasma physics and fusion science. I originally started my research in high-energy theory, studying the AdS/CFT correspondence. Now I have three projects, one in mathematical physics focused on analytic approaches to finite-temperature field theory, and two in experimental/applied physics building an ultrastable cavity for our high-flux cold atom beam.  
+I am broadly interested in fields including plasma physics, AMO physics, nonlinear dynamics & dynamical systems, and robotics. I enjoy applying abstract theory to very practical systems and solving real-world problems from a theoretical and mathematical perspective. I originally started my research in high-energy theory, studying the AdS/CFT correspondence. Now I have three projects, one in mathematical physics focused on analytic approaches to finite-temperature field theory, and two in experimental/applied physics building an ultrastable cavity for our high-flux cold atom beam.  
 
 ### Current Research   
+
+**Mathematical Methods and Applications in Classical and Modern Physics**  
+
+A comprehensive review of mathematical methods in physics; topics include advanced calculus and calculus of variations, complex analysis, ordinary and partial differential equations, linear algebra, differential geometry, group theory, and theory of special functions.  
 
 **Stable Mode-Hop-Free Feedback-and-Feedforward Loop to Extend the Tuning Range of External Cavity Diode Lasers**  
 
@@ -14,7 +18,7 @@ A quasi-global parameter-varying control model for mode-hop-free tuning in exter
 **New Intense Cold Atom Source @ [Ultracold Atomic Physics Group](https://web2.ph.utexas.edu/~coldatom/)**  
 [See project description here](https://web2.ph.utexas.edu/~coldatom/CAS.html).
 
-I'm currently working on implementing Pound–Drever–Hall (PDH) locking of a laser to an optical reference cavity and designing a stable optical cavity providing MHz-level linewidth and sub-MHz/day drift, sufficient for stable laser cooling and diagnostics.  
+Design, Construction, and Stabilization of an Ultrastable Reference Cavity for Pound-Drever-Hall Laser Locking - Implementing Pound–Drever–Hall (PDH) locking of a laser to an optical reference cavity and designing a stable reference cavity providing MHz-level linewidth and sub-MHz/day drift, sufficient for stable laser diagnostics.  
 
 **Operator-Theoretic Regularization of Divergent Logarithmic Series**  
 
