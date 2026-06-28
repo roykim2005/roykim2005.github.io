@@ -7,6 +7,10 @@ I am broadly interested in fields including plasma physics, AMO physics, nonline
 
 ### Current Research   
 
+**Numerical Modeling of the 1/1 Internal Kink Mode and Kadomtsev Reconnection in Tokamak Plasmas**  
+
+Implementing the Kadomtsev reconnection model in TJ Suite, a tokamak tearing mode stability analysis program.  
+
 **Mathematical Methods and Applications in Classical and Modern Physics**  
 
 A comprehensive review of mathematical methods in physics; topics include advanced calculus and calculus of variations, complex analysis, ordinary and partial differential equations, linear algebra, differential geometry, group theory, and theory of special functions.  
