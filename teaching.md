@@ -2,7 +2,7 @@
 title: Teaching
 ---
 
-**Teaching**  
+### Teaching  
 I'm a Physics Learning Assistant (undergraduate TA). I've assisted PHY 302L General Physics Technical Course: Electricity and Magnetism, Light, Atomic and Nuclear Physics (Fall 2025) and PHY 317L: General Physics II (Spring 2026). I will be assisting PHY 302L again in the Fall 2026 semester.
 
 I tutor high school level subjects including SAT math, calculus, and physics, as well as college level math and physics including complex analysis, linear algebra, quantum mechanics, and electrodynamics. You can find more information here: [SAT math](https://www.superprof.com/sat-math-austin-physics-engineering-student-with-99th-percentile-sat-score-available-korean-and-english.html) and [College math/physics](https://www.superprof.com/college-level-math-and-physics-austin-physics-aerospace-engineering-student-calc-diffeq-vectorcalc-linalg-complex.html).
