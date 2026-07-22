@@ -1,9 +1,9 @@
 theme: minima
 title: ""
 
-nav:
-  - Home: index.md
-  - Research Interests & Publications: researchinterests.md
-  - Teaching: teaching.md
-  - Other: other.md
+header_pages:
+  - index.md
+  - researchinterests.md
+  - teaching.md
+  - other.md
   
