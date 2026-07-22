@@ -3,7 +3,7 @@ title: Research
 ---
 
 ### Research Interests  
-I am broadly interested in fields including plasma physics, AMO physics, nonlinear dynamics & dynamical systems, and robotics. I enjoy applying abstract theory to very practical systems and solving real-world problems from a theoretical and mathematical perspective. I originally started my research in high-energy theory, studying the AdS/CFT correspondence. Now I have two main projects, one in experimental AMO physics building an ultrastable cavity and frequency locking system for a high-flux cold atom beam, and one in theoretical plasma physics implementing the Kadomtsev reconnection model in an MHD stability analysis program to study the 1/1 internal kink mode in a tokamak.  
+I am broadly interested in fields including plasma physics, AMO physics, nonlinear dynamics & dynamical systems, and robotics. I enjoy applying abstract theory to very practical systems and solving real-world problems from a theoretical and mathematical perspective. I currently have two main projects, one in experimental AMO physics building an ultrastable cavity and frequency locking system for a high-flux cold atom beam, and one in theoretical plasma physics implementing the Kadomtsev reconnection model in an MHD stability analysis program to study the 1/1 internal kink mode in a tokamak.  
 
 ### Current Research   
 
